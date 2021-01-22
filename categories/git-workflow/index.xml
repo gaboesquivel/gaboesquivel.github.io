@@ -6,10 +6,21 @@
     <description>Recent content in git workflow on Gabo Esquivel - Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gaboesquivel.com/categories/git-workflow/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphQL Code Generation for TypeScript</title>
+      <link>https://gaboesquivel.com/blog/2020/graphql-code-generation-for-typescript/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaboesquivel.com/blog/2020/graphql-code-generation-for-typescript/</guid>
+      <description>Presentation at GraphQL Texas, an event sponsored and organized by BoltSource.io
+    Presentación Comunidades de software + TypeScript y Graphql en español para Community Conf, PanamaJS.
+   </description>
+    </item>
     
     <item>
       <title>Recommendations to Enhance your Github Flow</title>
