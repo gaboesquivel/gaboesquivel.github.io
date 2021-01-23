@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>GraphQL Code Generation for TypeScript</title>
-      <link>https://gaboesquivel.com/blog/2020/graphql-code-generation-for-typescript/</link>
+      <title>TypeScript Code Generation from GraphQL</title>
+      <link>https://gaboesquivel.com/blog/2020/typescript-code-generation-from-graphql/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gaboesquivel.com/blog/2020/graphql-code-generation-for-typescript/</guid>
+      <guid>https://gaboesquivel.com/blog/2020/typescript-code-generation-from-graphql/</guid>
       <description>Presentation at GraphQL Texas, an event sponsored and organized by BoltSource.io
     Presentación Comunidades de software + TypeScript y Graphql en español para Community Conf, PanamaJS.
    </description>
